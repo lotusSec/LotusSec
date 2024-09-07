@@ -6,6 +6,7 @@ Focused on cybersecurity, developing tools, and exploring new technologies
 
 # OS
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-000000?style=flat&logo=kali-linux&logoColor=maroon)
+![Termux](https://img.shields.io/badge/Termux-000000?style=flat&logo=termux&logoColor=maroon)
 ## Interested In
 ![Programming and Hacking](https://img.shields.io/badge/Programming%20and%20Hacking-%23FF0000?style=flat&logo=hackerrank&logoColor=maroon)
 ## Skills
