@@ -1,9 +1,7 @@
 # Hello, I'm LotusSec
 
-## About Me
-- 🌍 Based in Philippines
-- 💼 I’m a Programmer and Hacker
-- 🔭 Focused on cybersecurity, developing tools, and exploring new technologies
+# About
+Focused on cybersecurity, developing tools, and exploring new technologies
 ![IMG_20240908_030924](https://github.com/user-attachments/assets/9a7e5dd3-f832-4026-aa2d-a348248647a8)
 
 
