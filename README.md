@@ -1,6 +1,8 @@
 # Hello, I'm Rxn
 # About
-Focused on cybersecurity, developing tools, and exploring new technologies
+Focused on cybersecurity, developing tools.
+## Trophy
+![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dark_lover)
 ![IMG_20240908_030924](https://github.com/user-attachments/assets/9a7e5dd3-f832-4026-aa2d-a348248647a8)
 # OS
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-000000?style=flat&logo=kali-linux&logoColor=maroon)
@@ -12,8 +14,6 @@ Focused on cybersecurity, developing tools, and exploring new technologies
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=maroon)
 ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat&logo=ruby&logoColor=maroon)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=maroon)
-## Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dark_lover)
 ## Achievements
 ![Followers](https://img.shields.io/badge/Followers-6k-maroon)
 ![Stars](https://img.shields.io/badge/Stars-9k-maroon)
