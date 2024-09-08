@@ -15,6 +15,6 @@ Focused on cybersecurity, developing tools, and exploring new technologies
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=maroon)
 ## Achievements
 ![Followers](https://img.shields.io/badge/Followers-9k-maroon)
-![Stars](https://img.shields.io/badge/Stars-99k-maroon)
+![Stars](https://img.shields.io/badge/Stars-9k-maroon)
 ## Contribution and Collaboration
 I’m open to contributions and collaborations on projects related to cybersecurity and open source. Feel free to reach out if you have an interesting project or idea!
