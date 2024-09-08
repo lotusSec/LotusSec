@@ -10,13 +10,14 @@ Focused on cybersecurity, developing tools, and exploring new technologies
 ## Interested In
 ![Programming and Hacking](https://img.shields.io/badge/Programming%20and%20Hacking-%23FF0000?style=flat&logo=hackerrank&logoColor=maroon)
 ## Skills
+![Reverse Engineering](https://img.shields.io/badge/Reverse_Engineering-maroon?style=flat&labelColor=000000&color=maroon)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=maroon)
 ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat&logo=ruby&logoColor=maroon)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=maroon)
 
 ## Achievements
-![Followers](https://img.shields.io/badge/Followers-9999-maroon)
-![Stars](https://img.shields.io/badge/Stars-9999-maroon)
+![Followers](https://img.shields.io/badge/Followers-9k-maroon)
+![Stars](https://img.shields.io/badge/Stars-99k-maroon)
 
 ## Contribution and Collaboration
 I’m open to contributions and collaborations on projects related to cybersecurity and open source. Feel free to reach out if you have an interesting project or idea!
