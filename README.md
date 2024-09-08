@@ -12,6 +12,8 @@ Focused on cybersecurity, developing tools, and exploring new technologies
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=maroon)
 ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat&logo=ruby&logoColor=maroon)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=maroon)
+## Trophy
+![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)
 ## Achievements
 ![Followers](https://img.shields.io/badge/Followers-6k-maroon)
 ![Stars](https://img.shields.io/badge/Stars-9k-maroon)
