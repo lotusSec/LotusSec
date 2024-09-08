@@ -1,11 +1,8 @@
 # Hello, I'm Rxn
 # About
 Focused on cybersecurity, developing tools.
-<!-- Social Badges-->
-<hr />
-<p align=center>
-    <a href="https://t.me/rxniel9" target="_blank"><img
-            src="https://img.shields.io/badge/Telegram-%232CA5E0?style=for-the-badge&logoColor=maroon&logo=telegram"
+## CONTACT
+- [![Telegram](https://img.shields.io/badge/Telegram-RXN-maroon?style=for-the-badge&logo=telegram)](https://t.me/BLACK_DEMON_VX)
 ## Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dark_lover)
 ![IMG_20240908_030924](https://github.com/user-attachments/assets/9a7e5dd3-f832-4026-aa2d-a348248647a8)
