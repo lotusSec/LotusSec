@@ -3,6 +3,7 @@
 Focused on cybersecurity, developing tools.
 ## CONTACT
 - [![Telegram](https://img.shields.io/badge/Telegram-RXN-maroon?style=for-the-badge&logo=telegram)](https://t.me/rxniel9)
+[![Discord](https://img.shields.io/badge/Discord-RXN-maroon?style=for-the-badge&logo=discord)](https://discord.com/users/reixn9)
 ## Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dark_lover)
 ![IMG_20240908_030924](https://github.com/user-attachments/assets/9a7e5dd3-f832-4026-aa2d-a348248647a8)
